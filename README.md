@@ -268,7 +268,7 @@ Happy coding! 🎯🔥
 
 
 
-<!-- AI-driven Subscription Chatbot Demo
+<!-- AI-driven Chatbot Demo
 ----------------------------------
 
 Setup:
@@ -279,4 +279,7 @@ pip install -r requirements.txt
 Run:
 python manage.py migrate
 python manage.py seed_dummy_data
-python manage.py runserver -->
+python manage.py runserver
+
+ai_subscription_bot
+-->
