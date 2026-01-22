@@ -13,11 +13,17 @@ This project demonstrates **practical AI usage with strict guardrails** — no h
 ## ✨ What This Demo Shows
 
 ✅ Natural language understanding (AI-powered)
+
 ✅ Intent detection with confidence thresholds
+
 ✅ Profile-aware document lookup (CG / LLC)
+
 ✅ Human-friendly responses
+
 ✅ Strict read-only guardrails
+
 ✅ Clean, production-like UX
+
 
 ❌ No document creation
 ❌ No edits or deletes
