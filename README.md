@@ -1,4 +1,4 @@
-# 🤖 AI On-page Interactive Chatbot (Demo)
+# 🤖 On-page Interactive AI Chatbot (Demo)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.x-green?logo=django&logoColor=white)
