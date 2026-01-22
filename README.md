@@ -54,7 +54,7 @@ The same investor can have documents under multiple profiles.
 
 ## 🏗️ Architecture Overview
 
-```text
+```
 ┌────────────────────┐
 │   Investor (UI)    │
 │  Bootstrap + HTML  │
@@ -231,14 +231,19 @@ This is a **demo application**:
 
 ## 👨‍💻 Author & Contact
 
-**Sachin Arora**
-Product Engineering & AI Systems
 
-📍 Noida, India
-📧 Email: **sachnaror@gmail.com**
-📞 Phone: **+91 9560330483**
-🌐 Website: https://about.me/sachin-arora
-🐙 GitHub: https://github.com/sachinarora
+## 📩 Contact
+
+| Name              | Details                             |
+|-------------------|-------------------------------------|
+| **👨‍💻 Developer**  | Sachin Arora                      |
+| **📧 Email**       | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
+| **📍 Location**    | Noida, India                       |
+| **📂 GitHub**      | [github.com/sachinaror](https://github.com/sachinaror) |
+| **🌐 Website**     | [https://about.me/sachin-arora](https://about.me/sachin-arora) |
+| **📱 Phone**       | [+91 9560330483](tel:+919560330483) |
+
+Happy coding! 🎯🔥
 
 ---
 
@@ -251,10 +256,6 @@ Product Engineering & AI Systems
 - Replace dummy data with GraphQL APIs
 
 ---
-
-> _“Good AI does not replace systems — it makes systems easier to use.”_
-
-
 
 
 
