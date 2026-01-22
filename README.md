@@ -26,8 +26,11 @@ This project demonstrates **practical AI usage with strict guardrails** — no h
 
 
 ❌ No document creation
+
 ❌ No edits or deletes
+
 ❌ No legal or tax advice
+
 ❌ No access to other logged-in users’ data
 
 ---
