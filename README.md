@@ -1,10 +1,10 @@
-# 🤖 AI Subscription Documents Chatbot (Demo)
+# 🤖 AI On-page Interactive Chatbot (Demo)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.x-green?logo=django&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--powered-black?logo=openai)
 
-An **AI-driven, read-only chatbot** built using **Django + ChatGPT API** to help investors quickly find, view, and download their **subscription / investment documents** using natural language.
+An **AI-driven, read-only chatbot** built using **Django + ChatGPT API** to help logged-in users quickly find, view, and download their **documents** using natural language.
 
 This project demonstrates **practical AI usage with strict guardrails** — no hallucinations, no data modification, no risk.
 
@@ -28,7 +28,7 @@ This project demonstrates **practical AI usage with strict guardrails** — no h
 ❌ No document creation
 ❌ No edits or deletes
 ❌ No legal or tax advice
-❌ No access to other investors’ data
+❌ No access to other logged-in users’ data
 
 ---
 
@@ -88,7 +88,7 @@ The same investor can have documents under multiple profiles.
           ▼
 ┌──────────────────────────┐
 │ Django ORM (SQLite)      │
-│ Subscription Documents  │
+│ Downloadable Documents  │
 └─────────┬────────────────┘
           │
           ▼
@@ -156,9 +156,9 @@ Open browser:
 ## 💬 Example Questions to Try
 
 - “Show my signed documents”
-- “Download agreement for Offering 3 under my LLC”
-- “Is my subscription complete for Offering 5?”
-- “Do I have documents under my CG profile?”
+- “Download agreement for Bank offering”
+- “Is my document complete for Offering 5?”
+- “Do I have documents in my profile?”
 
 ---
 
@@ -167,7 +167,7 @@ Open browser:
 This chatbot **will refuse**:
 - Editing or creating documents
 - Bulk downloads
-- Showing other investors’ data
+- Showing other logged-in users’ data
 - Providing legal or tax advice
 - Any unsupported action
 
@@ -181,7 +181,7 @@ This approach:
 - Reduces support tickets
 - Improves investor experience
 - Adds AI safely, not recklessly
-- Scales across other modules (K-1, Reports, Updates)
+- Scales across other modules (Reports, Updates)
 
 It is **practical AI**, not gimmicky AI.
 
@@ -191,7 +191,7 @@ It is **practical AI**, not gimmicky AI.
 
 This is a **demo application**:
 - Uses dummy data only
-- No real investor information
+- No real user's information
 - No production credentials
 
 ---
@@ -255,7 +255,7 @@ Happy coding! 🎯🔥
 
 ## 🧩 Next Possible Extensions
 
-- Unified chatbot for K-1 + Subscriptions
+- Unified chatbot
 - Confidence score visibility in UI
 - Multi-language support
 - Analytics on user intents
