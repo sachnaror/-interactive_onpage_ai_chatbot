@@ -16,7 +16,7 @@ This project demonstrates **practical AI usage with strict guardrails** — no h
 
 ✅ Intent detection with confidence thresholds
 
-✅ Profile-aware document lookup (CG / LLC)
+✅ Profile-aware document lookup
 
 ✅ Human-friendly responses
 
@@ -40,7 +40,7 @@ This project demonstrates **practical AI usage with strict guardrails** — no h
 AI is used **only** for:
 - Understanding what the user is asking
 - Extracting intent (view, download, status)
-- Extracting context (offering, profile)
+- Extracting context (bank offering, profile)
 - Generating human-friendly responses
 
 AI **does not**:
